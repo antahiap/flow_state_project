@@ -50,8 +50,8 @@ Let’s explore what’s possible, together.
 
 This repository is an evolving space — part lab, part journal, part playground. Here's how it's currently organized:
 
-- **`/meeting-notes/`** – Ongoing conversations, insights, and reflections from community sessions.
-- **`/mission-vision/`** – Our core intentions: the "why" behind this project, both practical and philosophical.
-- **`/events/`** – Workshops, talks, and gatherings related to flow, intuition, and collective intelligence.
+- **`doc/01_mission_vision/`** – Our core intentions: the "why" behind this project, both practical and philosophical.
+- **`doc/02_meeting_notes/`** – Ongoing conversations, insights, and reflections from community sessions.
+- **`doc/03_events/`** – Workshops, talks, and gatherings related to flow, intuition, and collective intelligence.
 
 More to come as we grow — this is a living structure. Feel free to contribute or suggest new sections!
